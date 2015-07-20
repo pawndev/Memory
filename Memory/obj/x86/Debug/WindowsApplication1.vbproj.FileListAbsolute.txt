@@ -1,0 +1,9 @@
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Memory.exe
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Memory.pdb
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Memory.xml
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Memory.Form1.resources
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Memory.Resources.resources
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Memory.exe
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Memory.xml
+C:\Users\Scipion\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Memory.pdb

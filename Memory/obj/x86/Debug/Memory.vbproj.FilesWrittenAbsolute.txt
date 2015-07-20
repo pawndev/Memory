@@ -1,0 +1,7 @@
+/home/loic/Documents/SomeWork/Memory/Memory/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.vb
+/home/loic/Documents/SomeWork/Memory/Memory/obj/x86/Debug/Memory.Form1.resources
+/home/loic/Documents/SomeWork/Memory/Memory/obj/x86/Debug/Memory.Resources.resources
+/home/loic/Documents/SomeWork/Memory/Memory/obj/x86/Debug/Memory.exe
+/home/loic/Documents/SomeWork/Memory/Memory/bin/Debug/Memory.exe.mdb
+/home/loic/Documents/SomeWork/Memory/Memory/bin/Debug/Memory.exe
+/home/loic/Documents/SomeWork/Memory/Memory/obj/x86/Debug/Memory.exe.mdb
